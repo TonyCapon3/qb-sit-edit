@@ -1,7 +1,7 @@
 # qb-sit
 
 
-Orignial - https://github.com/boostless/esx_sit
+Tiny edit from original - https://github.com/Manliketjb/qb-sit
 
 ## Requirements
 
@@ -11,6 +11,4 @@ qb-target - https://github.com/BerkieBb/qb-target
 
 polyzone - https://github.com/mkafrin/PolyZone
 
-```
-not to be sold or used in paid content!!
-```
+
