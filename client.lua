@@ -134,8 +134,4 @@ function sit(object, modelName, data)
 	end, objectCoords)
 end
 
-helpText = function(msg)
-    BeginTextCommandDisplayHelp('STRING')
-    AddTextComponentSubstringPlayerName(msg)
-    EndTextCommandDisplayHelp(0, false, true, -1)
-end
+
